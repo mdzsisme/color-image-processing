@@ -1,2 +1,2 @@
 # color-image-processing
-My digital image processing assignment is about color image processing, specifically RGB to other color models conversion.
+This is my digital image processing assignment to change the color representation from the RGB (Red, Green, Blue) color model to other color models such as CMY (Cyan, Magenta, Yellow), CMYK (Cyan, Magenta, Yellow, Key/Black), HSI (Hue, Saturation, Intensity), YUV (Y, Luminance, and two chrominance color components, U and V), and YCbCr (Y, two chrominance color components, Cb and Cr).
